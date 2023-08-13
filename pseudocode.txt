@@ -1,0 +1,19 @@
+while Bounding_Box detect false{
+	Pipeline<-frame
+	}
+
+Detection(Pipeline){
+	if(Bound_Box=1){
+		mask detection
+		end
+	else{
+		if(Tracking=/=loss){
+			Bounding_Box= false
+			end
+		}
+	}
+
+Tracking(pipeline){
+	Speaking Alerting System
+}
+
